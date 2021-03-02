@@ -21,7 +21,8 @@ Often the administrator needs to change the prefix to process orders.  This modu
 ## Support
 If you encounter any problems or bugs, please open an issue on [GitHub](https://github.com/UnimixPro/magento2-edit-order-prefix/issues/new).
 
-
+## Acquire
+[Edit Sales Suffix](https://marketplace.magento.com/unimix-module-editsalessuffix.html)
 
 Magento 2 Extensions
 ---
